@@ -1,0 +1,38 @@
+button.extension {
+  /* margin-top: 210px; */
+    font-family: Nunito,sans-serif;
+    -webkit-appearance: none;
+    border: 0;
+    background-color: #7c64bf;
+    color: #fff;
+    border-radius: 4px;
+    margin-top: 8px;
+    cursor: pointer;
+    padding: 2px 8px;
+    width: auto;
+    font-size: 15px;
+}
+
+button#stop {
+  position:fixed;
+  display: none;
+}
+
+button#go-to-mark { 
+  position: absolute; 
+  left: 10px;
+}
+
+@media (max-width: 766px){
+  #go-to-mark {
+    /* top: 90px; */
+    top: 83px;
+  }
+}
+
+@media (min-width: 767px){
+  #go-to-mark {
+    /* top: 210px; */
+    top: 203px;
+  }
+}
