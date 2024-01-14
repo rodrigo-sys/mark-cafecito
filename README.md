@@ -17,7 +17,7 @@ Also you can search for <i>cafecitos</i> that contain some text in their descrip
 </details>
 <br/>
 
-### Instalation
+### Installation
 - Download the extension  
   (clone de repo or download as zip)
 - go to about://extensions
@@ -30,5 +30,3 @@ Also you can search for <i>cafecitos</i> that contain some text in their descrip
   
   [instalation tutorial](https://github.com/rodrigo-sys/mark-cafesito/assets/62363333/57f863e2-2039-4041-b1fc-4b65f624f8a1)
 </details>
-
-
