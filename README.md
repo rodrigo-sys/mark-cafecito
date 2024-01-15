@@ -30,3 +30,15 @@ Also you can search for <i>cafecitos</i> that contain some text in their descrip
   
   [instalation tutorial](https://github.com/rodrigo-sys/mark-cafesito/assets/62363333/57f863e2-2039-4041-b1fc-4b65f624f8a1)
 </details>
+
+#### todo
+- show a stop button while is scrolling
+- highlight _cafecito_ when found
+- highlight the searched text when found
+- struct the directories
+- use logos instead of text in some buttons
+- improve the dimension of extension logo
+- hide popup after search
+- use a more unique identifier for the _cafecitos_
+
+
