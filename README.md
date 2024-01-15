@@ -1,4 +1,4 @@
-# mark cafesito
+# mark cafecito
 
 Browser extension to 'mark' a cafecito, press 'go to mark' and scroll to it.  
 For the crowdfunding platform [cafecito.app](https://cafecito.app/).  
