@@ -178,6 +178,9 @@ let gotomatch;
 const cafecitos = document.querySelectorAll("section[class^='coffee_coffeeContainer_'");
 const cafecitos_container = document.querySelector("div[class^=homeProfile_rightContainer__] > div");
 
+// exit if site is unsupported
+if(cafecitos_container == null){ throw 'not supported site' + document.URL; }
+
 // configuring language
 const lang = 'es'
 const messages = configureLanguage(lang);
