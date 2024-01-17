@@ -44,4 +44,6 @@ Also you can search for <i>cafecitos</i> that contain some text in their descrip
 ### Donations
 Monero address: 4AAMMG4faRAhThF2hATV3BbxauGBdoD9AKzcZwANcr2sXtCADe7jpwABkDFtrkNEodJQq4xFVhPaMAHpFUZwZ9sqCwVLM7m
 
-
+<p align="center">
+  <img src="https://github.com/rodrigo-sys/mark-cafecito/assets/62363333/4c733367-2ec8-4239-aeff-32fa84436871" width="200"/>
+<p/>
