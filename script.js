@@ -206,7 +206,7 @@ gotomark_button.addEventListener("click", () => {
     goToMatch();
   }
   else {
-    alert(message['warning-not-mark']);
+    alert(messages['warning-not-mark']);
   }
 });
 
